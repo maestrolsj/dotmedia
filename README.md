@@ -1,2 +1,5 @@
 # dotmedia
-webpage for design company
+
+I made this webpage for design company
+
+https://maestrolsj.github.io/dotmedia/
